@@ -1,6 +1,5 @@
 
 
-```markdown
 <div align="center">
 
 # 👨‍💻 ikyapakeofc
@@ -25,8 +24,6 @@ const ikyapakeofc = {
   motto: "Code is poetry, ship it beautifully.",
   kopi: "☕☕☕☕☕",
 };
-```
-
 · 🔭 Saat ini mengerjakan: {{Proyek Utama}}
 · 🌱 Sedang mendalami: {{Teknologi yang dipelajari}}
 · 💬 Tanya saya tentang: JavaScript, React, Node.js
